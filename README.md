@@ -59,7 +59,7 @@
 <!--AI_ACTIVITY_START-->
 
 <p align="center">
-  <i>Balikin komponen dashboard frontend yang sempat ilang dan beresin</i>
+  <i>Hari ini sibuk banget beresin repo,</i>
 </p>
 
 <!--AI_ACTIVITY_END-->
