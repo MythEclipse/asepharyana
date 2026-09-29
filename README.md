@@ -59,7 +59,7 @@
 <!--AI_ACTIVITY_START-->
 
 <p align="center">
-  <i>banyak komponen UI keren di GMW,</i>
+  <i>Hari ini sibuk banget nge-push berbagai</i>
 </p>
 
 <!--AI_ACTIVITY_END-->
