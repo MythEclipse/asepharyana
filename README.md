@@ -59,7 +59,7 @@
 <!--AI_ACTIVITY_START-->
 
 <p align="center">
-  <i>• Push 1 commit ke `asepharyana/GMW` (main): fix(moderation): never judge or delete a message we could not read
+  <i>• Push 1 commit ke `asepharyana/GMW` (main): test(e2e): point the API section at oRPC, not a removed REST layer
 • Push 1 commit ke `asepharyana/9router` (master): ci: authenticate the VPS to the private GHCR package
 • Push 1 commit ke `asepharyana/pr-agent-server` (main): refactor(sync): finish the </i>
 </p>
