@@ -59,9 +59,8 @@
 <!--AI_ACTIVITY_START-->
 
 <p align="center">
-  <i>• Push 1 commit ke `asepharyana/GMW` (main): feat(moderation): exempt individual threads from AI analysis
-• Push 1 commit ke `asepharyana/infra` (main): infra: serve hindsight control-plane dashboard at /, keep API on /v1
-• Push 43 commits ke `asepharyana/9router` (master): test(providers): remove t</i>
+  <i>• Push 1 commit ke `asepharyana/infra` (main): infra: hindsight gate password-only via forward_auth (match imrnes, drop basic_auth username)
+• Push 8 commits ke `asepharyana/GMW` (main): fix(ai-moderation): carry vision descriptions into the memory bank; fix(ai-moderation): apply the auto-delete gra</i>
 </p>
 
 <!--AI_ACTIVITY_END-->
