@@ -59,10 +59,9 @@
 <!--AI_ACTIVITY_START-->
 
 <p align="center">
-  <i>• Push 1 commit ke `asepharyana/GMW` (main): chore(ci): add a manual read-only prod log dump workflow
-• merged PR: &quot;&quot; di `asepharyana/GMW`
-• Push 1 commit ke `asepharyana/9router` (master): ci: deploy to imrnes-specific secrets + assert host identity
-• Push 1 commit ke `asepharyana/pr-agent-server` </i>
+  <i>• Push 1 commit ke `asepharyana/GMW` (main): feat(moderation): exempt individual threads from AI analysis
+• Push 1 commit ke `asepharyana/infra` (main): infra: serve hindsight control-plane dashboard at /, keep API on /v1
+• Push 43 commits ke `asepharyana/9router` (master): test(providers): remove t</i>
 </p>
 
 <!--AI_ACTIVITY_END-->
