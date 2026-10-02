@@ -59,8 +59,8 @@
 <!--AI_ACTIVITY_START-->
 
 <p align="center">
-  <i>• Push 3 commits ke `asepharyana/GMW` (main): feat(ai-moderation): add configurable context window (AI_MODERATION_CONTEXT_WINDOW); feat(ai-moderation): ground recall in conversation context; feat(ai-moderation): load recent thread history into the moderation prompt
-• Push 1 commit ke `asepharyana/in</i>
+  <i>• Push 3 commits ke `asepharyana/infra` (main): fix(prometheus): sync file_sd targets to /var/lib/prometheus, not /etc; fix(infra): drop retired tools targets and repair route verification; infra: remove lidm site blocks (project decommissioned)
+• Push 3 commits ke `asepharyana/GMW` (main): feat(ai-</i>
 </p>
 
 <!--AI_ACTIVITY_END-->
