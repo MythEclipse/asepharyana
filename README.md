@@ -58,8 +58,9 @@
 <!--AI_ACTIVITY_START-->
 
 <p align="center">
-  <i>• Push 1 commit ke `asepharyana/kbbi-api` (main): ci: fail the deploy on an unreachable host with a real reason
-• Push 1 commit ke `asepharyana/GMW` (main): fix(auto-delete, worker, metadata, policy): enforce recommended_action, skip NSFW to terminal state, expose channel context, add channelContext</i>
+  <i>• Push 1 commit ke `asepharyana/9router` (master): reset: back to upstream v0.5.95, keep CI + git-SHA versioning
+• Push 1 commit ke `asepharyana/kbbi-api` (main): feat: add POST-free batch lookup, and bind to Tailscale
+• Push 1 commit ke `asepharyana/GMW` (main): fix(auto-delete, worker, metadata, p</i>
 </p>
 
 <!--AI_ACTIVITY_END-->
