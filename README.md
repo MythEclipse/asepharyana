@@ -59,8 +59,8 @@
 <!--AI_ACTIVITY_START-->
 
 <p align="center">
-  <i>• Push 1 commit ke `asepharyana/infra` (main): infra: hindsight gate password-only via forward_auth (match imrnes, drop basic_auth username)
-• Push 8 commits ke `asepharyana/GMW` (main): fix(ai-moderation): carry vision descriptions into the memory bank; fix(ai-moderation): apply the auto-delete gra</i>
+  <i>• Push 3 commits ke `asepharyana/GMW` (main): feat(ai-moderation): add configurable context window (AI_MODERATION_CONTEXT_WINDOW); feat(ai-moderation): ground recall in conversation context; feat(ai-moderation): load recent thread history into the moderation prompt
+• Push 1 commit ke `asepharyana/in</i>
 </p>
 
 <!--AI_ACTIVITY_END-->
