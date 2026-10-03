@@ -58,9 +58,9 @@
 <!--AI_ACTIVITY_START-->
 
 <p align="center">
-  <i>• Push 1 commit ke `asepharyana/kbbi-api` (main): ci(deploy): reset service state each build and verify freshness
-• Push 1 commit ke `asepharyana/9router` (master): fix(translator): make every client-facing response conform to its vendor spec
-• Push 3 commits ke `asepharyana/infra` (main): fix(prome</i>
+  <i>• Push 1 commit ke `asepharyana/GMW` (main): fix(feed): hide the analysis summary when the disclosure is open
+• Push 1 commit ke `asepharyana/kbbi-api` (main): ci(deploy): reset service state each build and verify freshness
+• Push 1 commit ke `asepharyana/9router` (master): fix(translator): make eve</i>
 </p>
 
 <!--AI_ACTIVITY_END-->
