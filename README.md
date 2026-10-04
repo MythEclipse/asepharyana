@@ -58,9 +58,9 @@
 <!--AI_ACTIVITY_START-->
 
 <p align="center">
-  <i>• Push 1 commit ke `asepharyana/GMW` (main): fix(frontend): label analysis disclosure so expanding shows text once
-• Push 1 commit ke `asepharyana/kbbi-api` (main): ci(deploy): reset service state each build and verify freshness
-• Push 1 commit ke `asepharyana/9router` (master): fix(translator): mak</i>
+  <i>• Push 1 commit ke `asepharyana/9router` (master): test: make two suites host-independent (CI regression gate blocked deploy)
+• Push 1 commit ke `asepharyana/GMW` (main): fix(auto-delete): read the nickname from the text metadata column, not an object
+• Push 1 commit ke `asepharyana/kbbi-api` (main)</i>
 </p>
 
 <!--AI_ACTIVITY_END-->
