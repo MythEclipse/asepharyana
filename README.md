@@ -58,9 +58,9 @@
 <!--AI_ACTIVITY_START-->
 
 <p align="center">
-  <i>• Push 1 commit ke `asepharyana/GMW` (main): fix(flake): merge per-app node_modules over root in installPhase
+  <i>• Push 1 commit ke `asepharyana/GMW` (main): refactor: remove outdated moderation architecture documents
 • Push 1 commit ke `asepharyana/kbbi-api` (main): docs: use consistent wording for the per-deploy reset
-• Push 1 commit ke `asepharyana/9router` (master): test: make two suites host-independ</i>
+• Push 1 commit ke `asepharyana/9router` (master): test: make two suites host-independent (</i>
 </p>
 
 <!--AI_ACTIVITY_END-->
