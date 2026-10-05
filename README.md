@@ -58,9 +58,10 @@
 <!--AI_ACTIVITY_START-->
 
 <p align="center">
-  <i>• Push 1 commit ke `asepharyana/GMW` (main): fix(messages): coerce the two BigInt columns the guard had missed
+  <i>• Push 1 commit ke `asepharyana/GMW` (main): fix(flake): build from workspace root so @gmw/db symlink resolves
+• merged PR: &quot;&quot; di `asepharyana/GMW`
 • Push 1 commit ke `asepharyana/kbbi-api` (main): feat: index multi-word phrase headwords for phrase-aware lookup
-• Push 3 commits ke `asepharyana/infra` (main): fix(prometheus): sync file_</i>
+• Push 3 commits ke `asepharyana/infra</i>
 </p>
 
 <!--AI_ACTIVITY_END-->
