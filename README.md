@@ -58,9 +58,9 @@
 <!--AI_ACTIVITY_START-->
 
 <p align="center">
-  <i>• Push 1 commit ke `asepharyana/kbbi-api` (main): feat: index multi-word phrase headwords for phrase-aware lookup
-• Push 1 commit ke `asepharyana/GMW` (main): fix(prompt): state dictionary absences instead of letting the model fill them
-• Push 3 commits ke `asepharyana/infra` (main): fix(prometheus)</i>
+  <i>• Push 1 commit ke `asepharyana/GMW` (main): fix(messages): coerce the two BigInt columns the guard had missed
+• Push 1 commit ke `asepharyana/kbbi-api` (main): feat: index multi-word phrase headwords for phrase-aware lookup
+• Push 3 commits ke `asepharyana/infra` (main): fix(prometheus): sync file_</i>
 </p>
 
 <!--AI_ACTIVITY_END-->
