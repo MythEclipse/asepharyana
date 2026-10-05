@@ -58,9 +58,9 @@
 <!--AI_ACTIVITY_START-->
 
 <p align="center">
-  <i>• Push 1 commit ke `asepharyana/GMW` (main): refactor: remove outdated moderation architecture documents
-• Push 1 commit ke `asepharyana/kbbi-api` (main): docs: use consistent wording for the per-deploy reset
-• Push 1 commit ke `asepharyana/9router` (master): test: make two suites host-independent (</i>
+  <i>• Push 1 commit ke `asepharyana/kbbi-api` (main): feat: index multi-word phrase headwords for phrase-aware lookup
+• Push 1 commit ke `asepharyana/GMW` (main): fix(prompt): state dictionary absences instead of letting the model fill them
+• Push 3 commits ke `asepharyana/infra` (main): fix(prometheus)</i>
 </p>
 
 <!--AI_ACTIVITY_END-->
