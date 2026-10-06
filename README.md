@@ -58,9 +58,9 @@
 <!--AI_ACTIVITY_START-->
 
 <p align="center">
-  <i>• Push 7 commits ke `asepharyana/GMW` (main): fix(moon): make the task graph actually executable under moon 2.x; feat(security): require a token for the two write procedures; chore: delete packages/db, the Prisma package Prisma's retirement orphaned
-• merged PR: &quot;&quot; di `asepharyana/GMW`
-• Push 1 comm</i>
+  <i>• Push 1 commit ke `asepharyana/zeavis-edu` (main): fix(moon): set vcs.defaultBranch to main
+• Push 1 commit ke `asepharyana/shiro-neko` (main): Fire-and-forget taskkill to avoid blocking on Windows
+• Push 4 commits ke `asepharyana/mcpedia` (main): build: migrate from bun to pnpm; build: add esbuild</i>
 </p>
 
 <!--AI_ACTIVITY_END-->
