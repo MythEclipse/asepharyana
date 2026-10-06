@@ -58,10 +58,9 @@
 <!--AI_ACTIVITY_START-->
 
 <p align="center">
-  <i>• Push 1 commit ke `asepharyana/GMW` (main): fix: compile Prisma generated client to JS + fix nginx pid path
+  <i>• Push 7 commits ke `asepharyana/GMW` (main): fix(moon): make the task graph actually executable under moon 2.x; feat(security): require a token for the two write procedures; chore: delete packages/db, the Prisma package Prisma's retirement orphaned
 • merged PR: &quot;&quot; di `asepharyana/GMW`
-• Push 1 commit ke `asepharyana/kbbi-api` (main): feat: index multi-word phrase headwords for phrase-aware lookup
-• Push 3 commits ke `asepharyana/infra` </i>
+• Push 1 comm</i>
 </p>
 
 <!--AI_ACTIVITY_END-->
