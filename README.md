@@ -58,9 +58,9 @@
 <!--AI_ACTIVITY_START-->
 
 <p align="center">
-  <i>• Push 1 commit ke `asepharyana/GMW` (main): style(modules-gateway): apply Biome fixes to ai-moderation module
-• Push 1 commit ke `asepharyana/shiro-neko` (main): ci: trigger a run to confirm Actions executes on this fork
-• Push 1 commit ke `asepharyana/pr-agent-server` (main): ci(deploy): poll the </i>
+  <i>• Push 1 commit ke `asepharyana/9router` (master): ci(deploy): ship the native /opt/9router tree instead of a nix profile
+• Push 1 commit ke `asepharyana/TeleUploader` (main): ci(deploy): print PATH and /nix when the remote nix-store is missing
+• Push 1 commit ke `asepharyana/shiro-neko` (main): Fix</i>
 </p>
 
 <!--AI_ACTIVITY_END-->
