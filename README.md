@@ -58,9 +58,9 @@
 <!--AI_ACTIVITY_START-->
 
 <p align="center">
-  <i>• Push 1 commit ke `asepharyana/zeavis-edu` (main): fix(moon): set vcs.defaultBranch to main
-• Push 1 commit ke `asepharyana/shiro-neko` (main): Fire-and-forget taskkill to avoid blocking on Windows
-• Push 4 commits ke `asepharyana/mcpedia` (main): build: migrate from bun to pnpm; build: add esbuild</i>
+  <i>• Push 1 commit ke `asepharyana/proxy-bun` (master): migrate: replace bun with pnpm + Node.js runtime
+• Push 1 commit ke `asepharyana/hub` (main): ci: migrate from bun + Nix to pnpm + Node with systemd deploy
+• Push 1 commit ke `asepharyana/zeavis-edu` (main): fix(moon): set vcs.defaultBranch to mai</i>
 </p>
 
 <!--AI_ACTIVITY_END-->
