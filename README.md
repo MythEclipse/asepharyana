@@ -58,9 +58,9 @@
 <!--AI_ACTIVITY_START-->
 
 <p align="center">
-  <i>• Push 1 commit ke `asepharyana/9router` (master): ci(deploy): ship the native /opt/9router tree instead of a nix profile
-• Push 1 commit ke `asepharyana/TeleUploader` (main): ci(deploy): print PATH and /nix when the remote nix-store is missing
-• Push 1 commit ke `asepharyana/shiro-neko` (main): Fix</i>
+  <i>• Push 1 commit ke `asepharyana/GMW` (main): fix(ai-moderation): restructure hindsight/memory usage to prevent false positives
+• Push 1 commit ke `asepharyana/9router` (master): fix(guard): speak the caller's protocol on the middleware 401
+• Push 1 commit ke `asepharyana/zeavis-edu` (main): fix(deps</i>
 </p>
 
 <!--AI_ACTIVITY_END-->
