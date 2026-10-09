@@ -58,9 +58,8 @@
 <!--AI_ACTIVITY_START-->
 
 <p align="center">
-  <i>• Push 1 commit ke `asepharyana/9router` (master): test(cli): stub XDG_CONFIG_HOME in the connect run() suite
-• Push 1 commit ke `asepharyana/pr-agent-server` (main): fix(ci): fetch full history so moon can resolve the base branch on PRs
-• Push 1 commit ke `asepharyana/mcpedia` (main): Stop hoisting</i>
+  <i>• Push 3 commits ke `asepharyana/TeleUploader` (main): fix(api): require auth on /api/v1 reads, keeping share links public (item 11); docs(web): the /api/v1 client contract changed with item 11, say so; docs(todo): record the seven verified outcomes, and item 12's real blocker
+• Push 1 commit ke `as</i>
 </p>
 
 <!--AI_ACTIVITY_END-->
