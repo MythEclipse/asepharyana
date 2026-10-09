@@ -58,8 +58,8 @@
 <!--AI_ACTIVITY_START-->
 
 <p align="center">
-  <i>• Push 3 commits ke `asepharyana/TeleUploader` (main): fix(api): require auth on /api/v1 reads, keeping share links public (item 11); docs(web): the /api/v1 client contract changed with item 11, say so; docs(todo): record the seven verified outcomes, and item 12's real blocker
-• Push 1 commit ke `as</i>
+  <i>• Push 2 commits ke `asepharyana/GMW` (main): feat!: remove the Hindsight memory feature; Merge remote-tracking branch 'origin/main'
+• Push 2 commits ke `asepharyana/TeleUploader` (main): fix(deploy): check the UNIT's env for WEB_DIST_PATH, not just this shell's; docs(todo): the smoke table's GET / </i>
 </p>
 
 <!--AI_ACTIVITY_END-->
