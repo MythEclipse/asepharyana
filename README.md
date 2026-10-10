@@ -58,8 +58,9 @@
 <!--AI_ACTIVITY_START-->
 
 <p align="center">
-  <i>• Push 2 commits ke `asepharyana/GMW` (main): feat!: remove the Hindsight memory feature; Merge remote-tracking branch 'origin/main'
-• Push 2 commits ke `asepharyana/TeleUploader` (main): fix(deploy): check the UNIT's env for WEB_DIST_PATH, not just this shell's; docs(todo): the smoke table's GET / </i>
+  <i>• Push 1 commit ke `asepharyana/hub` (main): Stop hoisting the dependency tree into node_modules
+• Push 1 commit ke `asepharyana/pr-agent-server` (main): fix(deploy): run migrate.js through bws-exec so it sees DATABASE_URL
+• Push 1 commit ke `asepharyana/scraper` (main): ci: replace the Nix deploy p</i>
 </p>
 
 <!--AI_ACTIVITY_END-->
