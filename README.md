@@ -57,9 +57,9 @@
 <!--AI_ACTIVITY_START-->
 
 <p align="center">
-  <i>• Push 1 commit ke `asepharyana/infra` (main): Drop the npm entry: this repo has no package.json
-• Push 1 commit ke `asepharyana/GMW` (main): Fix Dependabot by updating pnpm workspace from the root
-• Push 2 commits ke `asepharyana/hub` (main): Remove deprecated rules and documentation for shadcn com</i>
+  <i>• Push 1 commit ke `asepharyana/zeavis-edu` (main): Add cooldown so Dependabot stops proposing day-old versions
+• Push 1 commit ke `asepharyana/mcpedia` (main): Add cooldown so Dependabot stops proposing day-old versions
+• Push 1 commit ke `asepharyana/hub` (main): Set minimumReleaseAge 0 for pnpm 1</i>
 </p>
 
 <!--AI_ACTIVITY_END-->
