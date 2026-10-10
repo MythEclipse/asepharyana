@@ -57,9 +57,14 @@
 <!--AI_ACTIVITY_START-->
 
 <p align="center">
-  <i>• Push 1 commit ke `asepharyana/zeavis-edu` (main): Add cooldown so Dependabot stops proposing day-old versions
-• Push 1 commit ke `asepharyana/mcpedia` (main): Add cooldown so Dependabot stops proposing day-old versions
-• Push 1 commit ke `asepharyana/hub` (main): Set minimumReleaseAge 0 for pnpm 1</i>
+  <i>• Push 1 commit ke `asepharyana/pr-agent-server` (main): fix: restore PR reviews, drop lost work, and unbreak the ops channel
+• Push 1 commit ke `asepharyana/kbbi-api` (main): Add pnpm workspace config with minimumReleaseAge 0
+• Push 1 commit ke `asepharyana/mcpedia` (main): Set minimumReleaseAge 0 for pnpm 11+ Dependabot installs
+• Push 1 commit ke `asepharyana/scraper` (main): Build the release binary in CI and deploy only the payload
+• Push 2 commits ke `asepharyana/hub` (main): Cap release retention at 2 (live + one rollback) and fix the live-release guard; Extend the prune harness to GMW, and fix the N+1 overflow GMW also had
+• Push 1 commit ke `asepharyana/zeavis-edu` (main): Make the release-cap harness deterministic and actually check the live target
+• Push 2 commits ke `asepharyana/GMW` (main): Correct the KEEP_RELEASES documentation; Fix the N+1 release overflow in the prune cap
+• Push 1 commit ke `asepharyana/infra` (main): Drop the npm entry: this repo has no package.json</i>
 </p>
 
 <!--AI_ACTIVITY_END-->
