@@ -58,9 +58,9 @@
 <!--AI_ACTIVITY_START-->
 
 <p align="center">
-  <i>• Push 1 commit ke `asepharyana/hub` (main): Stop hoisting the dependency tree into node_modules
-• Push 1 commit ke `asepharyana/pr-agent-server` (main): fix(deploy): run migrate.js through bws-exec so it sees DATABASE_URL
-• Push 1 commit ke `asepharyana/scraper` (main): ci: replace the Nix deploy p</i>
+  <i>• Push 1 commit ke `asepharyana/infra` (main): Drop the npm entry: this repo has no package.json
+• Push 1 commit ke `asepharyana/GMW` (main): Fix Dependabot by updating pnpm workspace from the root
+• Push 2 commits ke `asepharyana/hub` (main): Remove deprecated rules and documentation for shadcn com</i>
 </p>
 
 <!--AI_ACTIVITY_END-->
