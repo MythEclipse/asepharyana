@@ -243,6 +243,44 @@ async function main() {
   writeContent(llmResult || formatted.slice(0, 300));
 }
 
+function escapeHtml(text) {
+  return String(text)
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;");
+}
+
+// Backticks survive escapeHtml, so `repo` would leak into the page as literal
+// backticks inside <i>. Convert them to real chips after escaping.
+function inlineMarkdown(text) {
+  return escapeHtml(text).replace(/`([^`]+)`/g, "<code>$1</code>");
+}
+
+const MAX_ACTIVITY_LINES = 6;
+
+// A bulleted feed and a prose paragraph need different markup. Bullets become a
+// real list (newlines collapse inside <i>, which is what produced the wall of
+// text); anything else stays a single italic line.
+function renderActivity(summary) {
+  const lines = String(summary)
+    .split("\n")
+    .map((line) => line.trim())
+    .filter(Boolean);
+
+  const bullets = lines.filter((line) => line.startsWith("•"));
+
+  if (bullets.length > 1) {
+    const items = bullets
+      .slice(0, MAX_ACTIVITY_LINES)
+      .map((line) => `    <li>${inlineMarkdown(line.replace(/^•\s*/, ""))}</li>`)
+      .join("\n");
+    return `<ul>\n${items}\n  </ul>`;
+  }
+
+  return `<p align="center">\n  <i>${inlineMarkdown(lines.join(" ").slice(0, 400))}</i>\n</p>`;
+}
+
 function writeContent(summary) {
   if (!fs.existsSync(README_PATH)) { console.error(`[AI Blog] README.md not found`); process.exit(0); }
   let readme = fs.readFileSync(README_PATH, "utf-8");
@@ -251,17 +289,9 @@ function writeContent(summary) {
   if (startIdx === -1 || endIdx === -1) { console.error("[AI Blog] Markers not found"); process.exit(0); }
   const before = readme.slice(0, startIdx + MARKER_START.length);
   const after = readme.slice(endIdx);
-  const middle = `\n\n<p align="center">\n  <i>${escapeHtml(summary)}</i>\n</p>\n\n`;
+  const middle = `\n\n${renderActivity(summary)}\n\n`;
   fs.writeFileSync(README_PATH, before + middle + after, "utf-8");
   console.log("[AI Blog] README.md updated successfully");
-}
-
-function escapeHtml(text) {
-  return String(text)
-    .replace(/&/g, "&amp;")
-    .replace(/</g, "&lt;")
-    .replace(/>/g, "&gt;")
-    .replace(/"/g, "&quot;");
 }
 
 function writeFallback() {
