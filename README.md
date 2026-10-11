@@ -17,7 +17,7 @@
       <img src="https://img.shields.io/github/followers/asepharyana?style=flat-square&logo=github&logoColor=white&label=Followers&color=667eea" alt="Followers" />
     </a>
     <a href="https://github.com/asepharyana?tab=repositories">
-      <img src="https://img.shields.io/github/repos/asepharyana?style=flat-square&logo=github&logoColor=white&label=Repos&color=667eea" alt="Repositories" />
+      <img src="https://img.shields.io/badge/Repos-15-667eea?style=flat-square&logo=github&logoColor=white&label=Public" alt="Public repositories" />
     </a>
     <a href="https://github.com/asepharyana/asepharyana/commits/main">
       <img src="https://img.shields.io/github/last-commit/asepharyana/asepharyana?style=flat-square&logo=github&logoColor=white&label=Last%20Commit&color=667eea" alt="Last commit" />
