@@ -138,9 +138,9 @@
 <!--AI_ACTIVITY_START-->
 
 <ul>
-    <li>Push 1 commit ke <code>asepharyana/scraper</code> (main): refactor: remove obsolete specifications and documentation files; migrate scraper infrastructure to mytheclipse crates (rounds 1 and 2)</li>
-    <li>Push 1 commit ke <code>asepharyana/hub</code> (main): Discover units and hostnames instead of listing them in source</li>
-    <li>Push</li>
+    <li>Push 1 commit ke <code>asepharyana/GMW</code> (main): fix(infra): bind nginx to loopback so Caddy is the only public door</li>
+    <li>Push 1 commit ke <code>asepharyana/hub</code> (main): Cut the disclaimers out of the profile instead of restating them</li>
+    <li>Push 1 commit ke <code>asepharyana/scraper</code> (main): deploy: resolve cargo explic</li>
   </ul>
 
 <!--AI_ACTIVITY_END-->
