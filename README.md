@@ -140,10 +140,7 @@
 <ul>
     <li>Push 1 commit ke <code>asepharyana/hub</code> (main): Discover units and hostnames instead of listing them in source</li>
     <li>Push 1 commit ke <code>asepharyana/GMW</code> (main): feat(frontend): rewrite moderation layout as slip, drawer, and queue band</li>
-    <li>Push 2 commits ke <code>asepharyana/TeleUploader</code> (main): docs(env): document every variable env.ts reads, and guard the drift (item 15); docs(todo): record items 1, 8, 9, 14 and 15 as verified, with the evidence</li>
-    <li>Push 1 commit ke <code>asepharyana/kbbi-api</code> (main): Drop the apps/* glob: kbbi-api is a single-package repo</li>
-    <li>Push 1 commit ke <code>asepharyana/zeavis-edu</code> (main): Fix the release prune so the live release is actually spared</li>
-    <li>Push 1 commit ke <code>asepharyana/pr-agent-server</code> (main): fix: restore PR reviews, drop lost work, and unbreak the ops channel</li>
+    <li>Push 2 commits ke <code>asepharyana/TeleUploader</code> (main): docs(env): documen</li>
   </ul>
 
 <!--AI_ACTIVITY_END-->
