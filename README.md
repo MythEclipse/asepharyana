@@ -138,9 +138,9 @@
 <!--AI_ACTIVITY_START-->
 
 <ul>
-    <li>Push 1 commit ke <code>asepharyana/GMW</code> (main): fix(infra): bind nginx to loopback so Caddy is the only public door</li>
-    <li>Push 1 commit ke <code>asepharyana/hub</code> (main): Cut the disclaimers out of the profile instead of restating them</li>
-    <li>Push 1 commit ke <code>asepharyana/scraper</code> (main): deploy: resolve cargo explic</li>
+    <li>Push 1 commit ke <code>asepharyana/GMW</code> (main): Harden Dependabot against pnpm 11's minimumReleaseAge default</li>
+    <li>Push 1 commit ke <code>asepharyana/zeavis-edu</code> (main): Set minimumReleaseAge 0 for pnpm 11+ Dependabot installs</li>
+    <li>Push 1 commit ke <code>asepharyana/infra</code> (main): refactor(caddy): route gmw/imphnen di</li>
   </ul>
 
 <!--AI_ACTIVITY_END-->
