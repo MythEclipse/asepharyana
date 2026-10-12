@@ -138,9 +138,9 @@
 <!--AI_ACTIVITY_START-->
 
 <ul>
-    <li>Push 1 commit ke <code>asepharyana/9router</code> (master): docs(search): the three client-side traps to enabling CCR web search</li>
-    <li>Push 1 commit ke <code>asepharyana/mcpedia</code> (main): ci: build both artifact sets on the runner, keep payload/ out of biome</li>
-    <li>Push 1 commit ke <code>asepharyana/pr-agent-server</code> (main): fix</li>
+    <li>Push 1 commit ke <code>asepharyana/GMW</code> (main): refactor(infra): remove nginx, let Caddy route directly</li>
+    <li>Push 1 commit ke <code>asepharyana/9router</code> (master): test(websearch): cover Anthropic's fragmented tool-argument stream</li>
+    <li>Push 1 commit ke <code>asepharyana/hub</code> (main): Refactor serviceIndicator function t</li>
   </ul>
 
 <!--AI_ACTIVITY_END-->
