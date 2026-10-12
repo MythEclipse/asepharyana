@@ -138,9 +138,9 @@
 <!--AI_ACTIVITY_START-->
 
 <ul>
-    <li>Push 1 commit ke <code>asepharyana/hub</code> (main): Add cooldown so Dependabot stops proposing day-old versions</li>
-    <li>Push 1 commit ke <code>asepharyana/GMW</code> (main): Harden Dependabot against pnpm 11's minimumReleaseAge default</li>
-    <li>Push 1 commit ke <code>asepharyana/zeavis-edu</code> (main): Set minimumReleaseAge 0 for pnpm 11+</li>
+    <li>Push 1 commit ke <code>asepharyana/9router</code> (master): docs(search): the three client-side traps to enabling CCR web search</li>
+    <li>Push 1 commit ke <code>asepharyana/mcpedia</code> (main): ci: build both artifact sets on the runner, keep payload/ out of biome</li>
+    <li>Push 1 commit ke <code>asepharyana/pr-agent-server</code> (main): fix</li>
   </ul>
 
 <!--AI_ACTIVITY_END-->
