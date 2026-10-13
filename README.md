@@ -138,9 +138,8 @@
 <!--AI_ACTIVITY_START-->
 
 <ul>
-    <li>Push 1 commit ke <code>asepharyana/9router</code> (master): fix(opencode): scope free-tier sessions per caller and keep them across turns</li>
-    <li>Push 2 commits ke <code>asepharyana/hub</code> (main): Stop counting a finished oneshot as a degraded service; Name a scheduled job by its schedule, not by &quot;inactive&quot;</li>
-    <li>Push 1 comm</li>
+    <li>Push 1 commit ke <code>asepharyana/mcpedia</code> (main): ci: pipe the moon installer to bash, not sh</li>
+    <li>Push 3 commits ke <code>asepharyana/9router</code> (master): fix(cursor): load better-sqlite3 via dynamic import in auto-import; test(opencode): account for the fingerprint quartet in tool assertions; test: regenerat</li>
   </ul>
 
 <!--AI_ACTIVITY_END-->
