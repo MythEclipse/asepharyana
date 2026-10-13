@@ -138,9 +138,9 @@
 <!--AI_ACTIVITY_START-->
 
 <ul>
-    <li>Push 1 commit ke <code>asepharyana/GMW</code> (main): refactor(infra): remove nginx, let Caddy route directly</li>
-    <li>Push 1 commit ke <code>asepharyana/9router</code> (master): test(websearch): cover Anthropic's fragmented tool-argument stream</li>
-    <li>Push 1 commit ke <code>asepharyana/hub</code> (main): Refactor serviceIndicator function t</li>
+    <li>Push 1 commit ke <code>asepharyana/9router</code> (master): fix(opencode): scope free-tier sessions per caller and keep them across turns</li>
+    <li>Push 2 commits ke <code>asepharyana/hub</code> (main): Stop counting a finished oneshot as a degraded service; Name a scheduled job by its schedule, not by &quot;inactive&quot;</li>
+    <li>Push 1 comm</li>
   </ul>
 
 <!--AI_ACTIVITY_END-->
