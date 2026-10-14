@@ -138,9 +138,9 @@
 <!--AI_ACTIVITY_START-->
 
 <ul>
-    <li>Push 1 commit ke <code>asepharyana/pr-agent-server</code> (main): fix(deploy): refuse to ship a stale worker bundle</li>
-    <li>Push 1 commit ke <code>asepharyana/infra</code> (main): fix(caddy): route /api/auth to the API so better-auth is reachable</li>
-    <li>Push 1 commit ke <code>asepharyana/9router</code> (master): fix(websearch): wait for a t</li>
+    <li>Push 1 commit ke <code>asepharyana/pr-agent-server</code> (main): fix: restore auto-fix and auto-merge on two silent config bugs</li>
+    <li>Push 1 commit ke <code>asepharyana/TeleUploader</code> (main): docs: document the automatic release and image pipeline</li>
+    <li>Push 1 commit ke <code>asepharyana/hub</code> (main): docs: document the automa</li>
   </ul>
 
 <!--AI_ACTIVITY_END-->
