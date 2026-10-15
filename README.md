@@ -138,9 +138,9 @@
 <!--AI_ACTIVITY_START-->
 
 <ul>
-    <li>Push 1 commit ke <code>asepharyana/Booster-role</code> (main): fix(ci): stop embedding the release notes in the release commit</li>
-    <li>Push 1 commit ke <code>asepharyana/scraper</code> (main): docs: document the automatic release and image pipeline</li>
-    <li>Push 1 commit ke <code>asepharyana/GMW</code> (main): docs: document the automatic rel</li>
+    <li>Push 1 commit ke <code>asepharyana/kbbi-api</code> (main): fix(ci): cap the release body, which GitHub limits to 125,000 chars</li>
+    <li>Push 2 commits ke <code>asepharyana/hub</code> (main): build: add a container image for the API and web app; ci: publish container images to GHCR on every release</li>
+    <li>Push 3 commits ke `asephar</li>
   </ul>
 
 <!--AI_ACTIVITY_END-->
