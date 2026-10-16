@@ -138,9 +138,10 @@
 <!--AI_ACTIVITY_START-->
 
 <ul>
+    <li>Push 1 commit ke <code>asepharyana/mcpedia</code> (main): ci(mcpedia): fetch full history — moon cannot resolve a merge base</li>
     <li>🍴 Fork <code>NodeBB/NodeBB</code></li>
     <li>Push 2 commits ke <code>asepharyana/kbbi-api</code> (main): build(deps): bump docker/setup-buildx-action from 3 to 4; Auto-merge PR #12</li>
-    <li>Push 39 commits ke <code>asepharyana/9router</code> (master): feat(usage): Cursor IDE quota via DashboardService (spend + request buckets) (#4689); feat(ant</li>
+    <li>Push 39 commits ke `asepharya</li>
   </ul>
 
 <!--AI_ACTIVITY_END-->
