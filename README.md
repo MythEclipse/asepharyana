@@ -138,9 +138,9 @@
 <!--AI_ACTIVITY_START-->
 
 <ul>
-    <li>Push 1 commit ke <code>asepharyana/discord-forum-bridge</code> (master): fix three bugs that made thread intros unreadable in Discord</li>
-    <li>Push 1 commit ke <code>asepharyana/pr-agent-server</code> (main): feat(worker): invert close policy — close human PRs, never close dependabot</li>
-    <li>Push 3 commits ke <code>asepharyana/NodeBB</code> (</li>
+    <li>Push 1 commit ke <code>asepharyana/infra</code> (main): feat(tmp): hourly /tmp reaper with a denylist-first design</li>
+    <li>Push 1 commit ke <code>asepharyana/kbbi-api</code> (main): chore: ignore npm lockfile, container env dumps and generated data</li>
+    <li>Push 1 commit ke <code>asepharyana/mcpedia</code> (main): fix(ci): gate the deploy job</li>
   </ul>
 
 <!--AI_ACTIVITY_END-->
