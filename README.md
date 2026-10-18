@@ -138,8 +138,9 @@
 <!--AI_ACTIVITY_START-->
 
 <ul>
-    <li>Push 1 commit ke <code>asepharyana/mcpedia</code> (main): fix(ci): clear the systemd staging dir before scp, or every deploy after the first nests</li>
-    <li>Push 5 commits ke <code>asepharyana/GMW</code> (main): fix(moderation): read coverage from analysis_attempts, not a table with no writer; chore: drop six tables whose feat</li>
+    <li>Push 1 commit ke <code>asepharyana/mcpedia</code> (main): docs(readme): drop the removed writeups/research sections from the examples</li>
+    <li>Push 1 commit ke <code>IMRNES/sudobot</code> (main): fix(leveling): order the ladder, and measure the bot's real assignment ceiling</li>
+    <li>Push 3 commits ke <code>asepharyana/NodeBB</code> (master): r</li>
   </ul>
 
 <!--AI_ACTIVITY_END-->
