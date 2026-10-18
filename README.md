@@ -138,8 +138,8 @@
 <!--AI_ACTIVITY_START-->
 
 <ul>
-    <li>Push 1 commit ke <code>asepharyana/mcpedia</code> (main): fix(worker): index jobs must read Postgres, not a disk the deploy host lacks</li>
-    <li>Push 5 commits ke <code>asepharyana/GMW</code> (main): fix(moderation): read coverage from analysis_attempts, not a table with no writer; chore: drop six tables whose features no long</li>
+    <li>Push 1 commit ke <code>asepharyana/mcpedia</code> (main): fix(ci): clear the systemd staging dir before scp, or every deploy after the first nests</li>
+    <li>Push 5 commits ke <code>asepharyana/GMW</code> (main): fix(moderation): read coverage from analysis_attempts, not a table with no writer; chore: drop six tables whose feat</li>
   </ul>
 
 <!--AI_ACTIVITY_END-->
