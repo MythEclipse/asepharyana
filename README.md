@@ -138,9 +138,8 @@
 <!--AI_ACTIVITY_START-->
 
 <ul>
-    <li>Push 1 commit ke <code>asepharyana/mcpedia</code> (main): fix(web): render the matched route — document URLs showed the section index</li>
-    <li>Push 1 commit ke <code>asepharyana/discord-forum-bridge</code> (master): stop the forum-adoption notice from spamming Discord</li>
-    <li>Push 1 commit ke <code>asepharyana/pr-agent-server</code> (main): f</li>
+    <li>Push 1 commit ke <code>asepharyana/mcpedia</code> (main): fix(worker): index jobs must read Postgres, not a disk the deploy host lacks</li>
+    <li>Push 5 commits ke <code>asepharyana/GMW</code> (main): fix(moderation): read coverage from analysis_attempts, not a table with no writer; chore: drop six tables whose features no long</li>
   </ul>
 
 <!--AI_ACTIVITY_END-->
