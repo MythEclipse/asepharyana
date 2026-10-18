@@ -138,9 +138,9 @@
 <!--AI_ACTIVITY_START-->
 
 <ul>
-    <li>Push 1 commit ke <code>asepharyana/infra</code> (main): feat(tmp): hourly /tmp reaper with a denylist-first design</li>
-    <li>Push 1 commit ke <code>asepharyana/kbbi-api</code> (main): chore: ignore npm lockfile, container env dumps and generated data</li>
-    <li>Push 1 commit ke <code>asepharyana/mcpedia</code> (main): fix(ci): gate the deploy job</li>
+    <li>Push 1 commit ke <code>asepharyana/mcpedia</code> (main): fix(web): render the matched route — document URLs showed the section index</li>
+    <li>Push 1 commit ke <code>asepharyana/discord-forum-bridge</code> (master): stop the forum-adoption notice from spamming Discord</li>
+    <li>Push 1 commit ke <code>asepharyana/pr-agent-server</code> (main): f</li>
   </ul>
 
 <!--AI_ACTIVITY_END-->
