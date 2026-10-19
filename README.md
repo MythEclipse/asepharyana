@@ -138,9 +138,9 @@
 <!--AI_ACTIVITY_START-->
 
 <ul>
-    <li>Push 1 commit ke <code>IMRNES/sudobot</code> (main): Gate the dashboard on a Discord role whitelist</li>
-    <li>Push 1 commit ke <code>asepharyana/mcpedia</code> (main): fix(sections): a partial upsert must not blank the fields it omits</li>
-    <li>Push 1 commit ke <code>asepharyana/infra</code> (main): fix(gmw-watchdog): stop reporting Bitwarden ra</li>
+    <li>Push 1 commit ke <code>IMRNES/sudobot</code> (main): Give every ladder rung its badge</li>
+    <li>Push 5 commits ke <code>asepharyana/NodeBB</code> (master): chore: up dbsearch; fix: closes #15023; fix(activitypub): keep emoji tags when tag is a single object</li>
+    <li>Push 1 commit ke <code>asepharyana/pr-agent-server</code> (main): fix(worker):</li>
   </ul>
 
 <!--AI_ACTIVITY_END-->
