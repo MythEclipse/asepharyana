@@ -138,9 +138,9 @@
 <!--AI_ACTIVITY_START-->
 
 <ul>
-    <li>Push 1 commit ke <code>asepharyana/mcpedia</code> (main): docs(config): commit the .env.example the repo only ever advertised</li>
-    <li>Push 1 commit ke <code>asepharyana/infra</code> (main): fix(caddy): serve the SPA's /dashboard, not the API's branded page</li>
-    <li>Push 1 commit ke <code>asepharyana/pr-agent-server</code> (main): fix(worker):</li>
+    <li>Push 1 commit ke <code>IMRNES/sudobot</code> (main): Gate the dashboard on a Discord role whitelist</li>
+    <li>Push 1 commit ke <code>asepharyana/mcpedia</code> (main): fix(sections): a partial upsert must not blank the fields it omits</li>
+    <li>Push 1 commit ke <code>asepharyana/infra</code> (main): fix(gmw-watchdog): stop reporting Bitwarden ra</li>
   </ul>
 
 <!--AI_ACTIVITY_END-->
