@@ -138,9 +138,9 @@
 <!--AI_ACTIVITY_START-->
 
 <ul>
-    <li>Push 1 commit ke <code>asepharyana/mcpedia</code> (main): docs(readme): drop the removed writeups/research sections from the examples</li>
-    <li>Push 1 commit ke <code>IMRNES/sudobot</code> (main): fix(leveling): order the ladder, and measure the bot's real assignment ceiling</li>
-    <li>Push 3 commits ke <code>asepharyana/NodeBB</code> (master): r</li>
+    <li>Push 1 commit ke <code>asepharyana/mcpedia</code> (main): docs(config): commit the .env.example the repo only ever advertised</li>
+    <li>Push 1 commit ke <code>asepharyana/infra</code> (main): fix(caddy): serve the SPA's /dashboard, not the API's branded page</li>
+    <li>Push 1 commit ke <code>asepharyana/pr-agent-server</code> (main): fix(worker):</li>
   </ul>
 
 <!--AI_ACTIVITY_END-->
