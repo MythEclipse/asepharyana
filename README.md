@@ -138,9 +138,9 @@
 <!--AI_ACTIVITY_START-->
 
 <ul>
+    <li>Push 1 commit ke <code>IMRNES/sudobot</code> (main): docs: record the two Developer-Portal-only steps for dashboard sign-in</li>
     <li>Push 1 commit ke <code>asepharyana/9router</code> (master): chore: adjust package.json version (bump 0.10.1)</li>
-    <li>Push 1 commit ke <code>IMRNES/sudobot</code> (main): Give the welcome a real embed card, and make the ladder replace</li>
-    <li>Push 3 commits ke <code>asepharyana/NodeBB</code> (master): feat: add inflight request handling to lr</li>
+    <li>Push 3 commits ke <code>asepharyana/NodeBB</code> (master): feat: add inflight request handlin</li>
   </ul>
 
 <!--AI_ACTIVITY_END-->
