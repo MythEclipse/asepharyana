@@ -138,9 +138,9 @@
 <!--AI_ACTIVITY_START-->
 
 <ul>
+    <li>Push 1 commit ke <code>IMRNES/sudobot</code> (main): Do not call a role missing while its name is still loading</li>
     <li>Push 1 commit ke <code>asepharyana/pr-agent-server</code> (main): fix(review): stop publishing reviews that say nothing, and stop attributing them to a model that never ran</li>
-    <li>Tutup PR: &quot;&quot; di <code>asepharyana/pr-agent-server</code></li>
-    <li>Push 1 commit ke <code>IMRNES/sudobot</code> (main): fix(web): import the caller's guilds after s</li>
+    <li>Tutup PR: &quot;&quot; di `asepharyana/pr</li>
   </ul>
 
 <!--AI_ACTIVITY_END-->
