@@ -138,9 +138,9 @@
 <!--AI_ACTIVITY_START-->
 
 <ul>
-    <li>Push 1 commit ke <code>asepharyana/9router</code> (master): chore: apply hook reformat and version bump</li>
-    <li>Push 1 commit ke <code>IMRNES/sudobot</code> (main): Inset the ladder badges so they render as circles, not squares</li>
-    <li>Push 1 commit ke <code>asepharyana/pr-agent-server</code> (main): fix(review): stop publishing reviews that</li>
+    <li>Push 1 commit ke <code>asepharyana/pr-agent-server</code> (main): fix(api): survive a failed history write, and set the public auth origin</li>
+    <li>Push 1 commit ke <code>asepharyana/9router</code> (master): fix: clear OpenCode session on rate limit + clean relay headers for anon</li>
+    <li>Push 1 commit ke <code>IMRNES/sudobot</code> (main): In</li>
   </ul>
 
 <!--AI_ACTIVITY_END-->
