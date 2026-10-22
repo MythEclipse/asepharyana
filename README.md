@@ -138,9 +138,8 @@
 <!--AI_ACTIVITY_START-->
 
 <ul>
-    <li>Push 1 commit ke <code>asepharyana/pr-agent-server</code> (main): chore: remove the probe test that PR #20 merged into main</li>
-    <li>Push 1 commit ke <code>asepharyana/9router</code> (master): chore: bump version to 0.12.0</li>
-    <li>Push 1 commit ke <code>asepharyana/TeleUploader</code> (main): fix(auth): send nonce to Google so ID token passes</li>
+    <li>Push 3 commits ke <code>asepharyana/NodeBB</code> (master): refactor: tags are stored in topic hash; Merge remote-tracking branch 'refs/remotes/upstream/master'; fix: auto-fix code quality [skip ci]</li>
+    <li>Push 1 commit ke <code>asepharyana/TeleUploader</code> (main): feat(auth): migrate to the Kana stack — better-auth, oRP</li>
   </ul>
 
 <!--AI_ACTIVITY_END-->
