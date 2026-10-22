@@ -138,9 +138,9 @@
 <!--AI_ACTIVITY_START-->
 
 <ul>
-    <li>Push 1 commit ke <code>asepharyana/pr-agent-server</code> (main): fix(api): survive a failed history write, and set the public auth origin</li>
-    <li>Push 1 commit ke <code>asepharyana/9router</code> (master): fix: clear OpenCode session on rate limit + clean relay headers for anon</li>
-    <li>Push 1 commit ke <code>IMRNES/sudobot</code> (main): In</li>
+    <li>Push 1 commit ke <code>asepharyana/pr-agent-server</code> (main): chore: remove the probe test that PR #20 merged into main</li>
+    <li>Push 1 commit ke <code>asepharyana/9router</code> (master): chore: bump version to 0.12.0</li>
+    <li>Push 1 commit ke <code>asepharyana/TeleUploader</code> (main): fix(auth): send nonce to Google so ID token passes</li>
   </ul>
 
 <!--AI_ACTIVITY_END-->
