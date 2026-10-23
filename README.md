@@ -138,8 +138,9 @@
 <!--AI_ACTIVITY_START-->
 
 <ul>
-    <li>Push 2 commits ke <code>asepharyana/TeleUploader</code> (main): feat(web): improve dashboard bucket navigation and error boundary UX; Merge branch 'main' of https://github.com/asepharyana/TeleUploader</li>
-    <li>Push 1 commit ke <code>IMRNES/sudobot</code> (main): Widen ladder thresholds so the top rung is not reachable in a fe</li>
+    <li>Push 1 commit ke <code>asepharyana/TeleUploader</code> (main): fix(web): hapus CSS manual pakai Tailwind inline</li>
+    <li>Push 1 commit ke <code>asepharyana/pr-agent-server</code> (main): fix(web): stop the dashboard rendering a blank white page</li>
+    <li>Push 1 commit ke <code>asepharyana/9router</code> (master): fix(opencode): route free tier</li>
   </ul>
 
 <!--AI_ACTIVITY_END-->
