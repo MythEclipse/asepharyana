@@ -138,9 +138,9 @@
 <!--AI_ACTIVITY_START-->
 
 <ul>
-    <li>Push 1 commit ke <code>asepharyana/9router</code> (master): fix(opencode): use opencode executor for free tier lane</li>
-    <li>Push 1 commit ke <code>asepharyana/TeleUploader</code> (main): chore(web): rombak FE dengan desain modern — clean layout, dark/light mode, shadcn-style components</li>
-    <li>Push 5 commits ke `asepharyana/NodeBB</li>
+    <li>Push 1 commit ke <code>asepharyana/9router</code> (master): fix: import extractReasoningText to enhance reasoning handling in SSE processing</li>
+    <li>Push 1 commit ke <code>asepharyana/TeleUploader</code> (main): fix(web): rapihkan route terautentikasi — Tailwind, hapus legacy CSS, hapus double ThemeProvider</li>
+    <li>Push 5 commits</li>
   </ul>
 
 <!--AI_ACTIVITY_END-->
