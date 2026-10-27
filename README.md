@@ -138,9 +138,9 @@
 <!--AI_ACTIVITY_START-->
 
 <ul>
-    <li>Push 2 commits ke <code>asepharyana/9router</code> (master): fix(ci): use pnpm in the README screenshot workflow; chore: adjust package.json version (bump)</li>
-    <li>Push 1 commit ke <code>asepharyana/GMW</code> (main): fix: tighten moderation policy against joke-labelled abuse</li>
-    <li>Push 1 commit ke <code>asepharyana/pr-agent-server</code></li>
+    <li>Push 1 commit ke <code>asepharyana/9router</code> (master): chore: sync pnpm lockfile with wreq-js dependency</li>
+    <li>Push 1 commit ke <code>asepharyana/pr-agent-server</code> (main): fix(worker): stop pinning a timeout, and refuse a bump that cannot install</li>
+    <li>Push 1 commit ke <code>asepharyana/GMW</code> (main): fix: tighten moderatio</li>
   </ul>
 
 <!--AI_ACTIVITY_END-->
