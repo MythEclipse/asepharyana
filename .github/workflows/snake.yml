@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Generate Snake (Dark)
         uses: Platane/snk/svg-only@v3
@@ -30,7 +30,7 @@ jobs:
             assets/generated/snake-light.svg?palette=github-light
 
       - name: Push to repo
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: "chore: update contribution snake [skip ci]"
           file_pattern: assets/generated/snake-*.svg
