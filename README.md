@@ -138,8 +138,9 @@
 <!--AI_ACTIVITY_START-->
 
 <ul>
-    <li>Push 15 commits ke <code>asepharyana/9router</code> (master): chore: untrack build artifacts and ignore them; feat(cli-tools): extract shared card field row primitives; feat(cli-tools): reuse EndpointField across the remaining tool cards</li>
-    <li>Push 1 commit ke <code>asepharyana/pr-agent-server</code> (main): fix(worker): s</li>
+    <li>Push 2 commits ke <code>asepharyana/9router</code> (master): feat(logs): filter the console per provider and shrink the topology card; chore: adjust package.json version (bump)</li>
+    <li>Push 1 commit ke <code>asepharyana/pr-agent-server</code> (main): fix(queue): score the CURRENT review, and stop losing re-requests</li>
+    <li>Push 1</li>
   </ul>
 
 <!--AI_ACTIVITY_END-->
