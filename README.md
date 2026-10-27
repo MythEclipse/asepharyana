@@ -138,9 +138,9 @@
 <!--AI_ACTIVITY_START-->
 
 <ul>
-    <li>Push 1 commit ke <code>asepharyana/pr-agent-server</code> (main): ci(deploy): fail with the real reason when the box is out of disk</li>
-    <li>merged PR: &quot;&quot; di <code>asepharyana/pr-agent-server</code></li>
-    <li>Push 2 commits ke <code>asepharyana/9router</code> (master): fix(db): stop request details shutdown hooks from stacking listeners; fix(db</li>
+    <li>Push 2 commits ke <code>asepharyana/9router</code> (master): fix(ci): use pnpm in the README screenshot workflow; chore: adjust package.json version (bump)</li>
+    <li>Push 1 commit ke <code>asepharyana/GMW</code> (main): fix: tighten moderation policy against joke-labelled abuse</li>
+    <li>Push 1 commit ke <code>asepharyana/pr-agent-server</code></li>
   </ul>
 
 <!--AI_ACTIVITY_END-->
