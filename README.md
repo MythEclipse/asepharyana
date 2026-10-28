@@ -138,9 +138,9 @@
 <!--AI_ACTIVITY_START-->
 
 <ul>
-    <li>Tutup PR: &quot;&quot; di <code>asepharyana/TeleUploader</code></li>
-    <li>Push 3 commits ke <code>asepharyana/NodeBB</code> (master): chore: up persona; Merge remote-tracking branch 'refs/remotes/upstream/master'; fix: auto-fix code quality [skip ci]</li>
-    <li>Push 2 commits ke <code>asepharyana/9router</code> (master): fix(usage): resolve the alias in ev</li>
+    <li>merged PR: &quot;&quot; di <code>asepharyana/TeleUploader</code></li>
+    <li>Push 1 commit ke <code>asepharyana/9router</code> (master): fix(relay): honour relayUrl, not just vercelRelayUrl</li>
+    <li>Push 3 commits ke <code>asepharyana/NodeBB</code> (master): chore: up persona; Merge remote-tracking branch 'refs/remotes/upstream/master'; fix: auto-fix code</li>
   </ul>
 
 <!--AI_ACTIVITY_END-->
