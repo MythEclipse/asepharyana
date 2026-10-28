@@ -138,9 +138,9 @@
 <!--AI_ACTIVITY_START-->
 
 <ul>
-    <li>Push 1 commit ke <code>asepharyana/9router</code> (master): chore: bump version to 0.6.0</li>
-    <li>Push 1 commit ke <code>asepharyana/pr-agent-server</code> (main): fix(queue): score the CURRENT review, and stop losing re-requests</li>
-    <li>Push 1 commit ke <code>asepharyana/GMW</code> (main): fix: tighten moderation policy against joke-labelled</li>
+    <li>Push 2 commits ke <code>asepharyana/9router</code> (master): fix(usage): give lifecycle rows the resolved model too; chore: adjust package.json version (bump)</li>
+    <li>Push 1 commit ke <code>asepharyana/mcpedia</code> (main): ci: bump GitHub Actions to latest majors and Node 24</li>
+    <li>Push 1 commit ke <code>asepharyana/zeavis-edu</code> (mai</li>
   </ul>
 
 <!--AI_ACTIVITY_END-->
