@@ -138,12 +138,12 @@
 <!--AI_ACTIVITY_START-->
 
 <ul>
-    <li>Push 6 commits ke <code>asepharyana/9router</code> (master): feat(db): store latency, first-token time and cache provenance per request; feat(api): latency percentiles, a prometheus histogram, spend anomalies, idempotent retries and an audit trail; feat(web): record latency and cache hits, replay streams, and gate the request path</li>
-    <li>Push 1 commit ke <code>asepharyana/MythEclipse-Bot-Collections</code> (main): feat(workspace): migrate to multi-tenant monorepo platform</li>
+    <li>Push 1 commit ke <code>asepharyana/MythEclipse-Bot-Collections</code> (main): feat(web): sign the dashboard in with discord oauth</li>
+    <li>Push 3 commits ke <code>asepharyana/NodeBB</code> (master): test: fix relative_path tests; Merge remote-tracking branch 'refs/remotes/upstream/master'; fix: auto-fix code quality [skip ci]</li>
+    <li>Tutup PR: &quot;&quot; di <code>asepharyana/TeleUploader</code></li>
+    <li>Push 9 commits ke <code>asepharyana/9router</code> (master): feat(opencode): rebuild the harness preamble per request; fix(scripts): implement the declared sync:opencode-harness script; docs: changelog for the per-request opencode harness preamble</li>
+    <li>Tutup PR: &quot;&quot; di <code>asepharyana/pr-agent-server</code></li>
     <li>Tutup PR: &quot;&quot; di <code>asepharyana/hub</code></li>
-    <li>Push 1 commit ke <code>IMRNES/sudobot</code> (main): fix: remove legacy goodbye wording</li>
-    <li>Push 7 commits ke <code>asepharyana/NodeBB</code> (master): test: dockerfile change for corepack, its removed in node:lts; test: on more corepack test; chore: remove comments</li>
-    <li>Push 1 commit ke <code>asepharyana/GMW</code> (main): fix(hooks): add timeout handling to useRouteSeed for fetch requests</li>
   </ul>
 
 <!--AI_ACTIVITY_END-->
