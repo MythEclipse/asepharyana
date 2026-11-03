@@ -138,12 +138,12 @@
 <!--AI_ACTIVITY_START-->
 
 <ul>
-    <li>Push 1 commit ke <code>asepharyana/MythEclipse-Bot-Collections</code> (main): feat(web): sign the dashboard in with discord oauth</li>
-    <li>Push 3 commits ke <code>asepharyana/NodeBB</code> (master): test: fix relative_path tests; Merge remote-tracking branch 'refs/remotes/upstream/master'; fix: auto-fix code quality [skip ci]</li>
-    <li>Tutup PR: &quot;&quot; di <code>asepharyana/TeleUploader</code></li>
-    <li>Push 9 commits ke <code>asepharyana/9router</code> (master): feat(opencode): rebuild the harness preamble per request; fix(scripts): implement the declared sync:opencode-harness script; docs: changelog for the per-request opencode harness preamble</li>
-    <li>Tutup PR: &quot;&quot; di <code>asepharyana/pr-agent-server</code></li>
-    <li>Tutup PR: &quot;&quot; di <code>asepharyana/hub</code></li>
+    <li>Push 1 commit ke <code>asepharyana/MythEclipse-Bot-Collections</code> (main): chore: rename the project to MythEclipse Bot Collections</li>
+    <li>Push 2 commits ke <code>asepharyana/9router</code> (master): feat: enhance relay functionality and improve date formatting in TokenSavingsTab; chore: adjust package.json version (bump)</li>
+    <li>Tutup PR: &quot;&quot; di <code>asepharyana/mcpedia</code></li>
+    <li>Push 3 commits ke <code>asepharyana/NodeBB</code> (master): fix: dont error if app.user or app.user.blocks is undefined; Merge remote-tracking branch 'refs/remotes/upstream/master'; fix: auto-fix code quality [skip ci]</li>
+    <li>Push 1 commit ke <code>asepharyana/infra</code> (main): feat(caddy): serve the dcbot landing page and dashboard</li>
+    <li>Tutup PR: &quot;&quot; di <code>asepharyana/zeavis-edu</code></li>
   </ul>
 
 <!--AI_ACTIVITY_END-->
