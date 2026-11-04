@@ -138,12 +138,12 @@
 <!--AI_ACTIVITY_START-->
 
 <ul>
-    <li>Push 3 commits ke <code>asepharyana/mcpedia</code> (main): chore(release): 1.4.21; fix(db): guard must resolve migrations folder in bundled layout too; chore(release): 1.4.22</li>
-    <li>Tutup PR: &quot;&quot; di <code>asepharyana/TeleUploader</code></li>
-    <li>Push 1 commit ke <code>asepharyana/mytheclipse-crates</code> (main): chore(release): 3.0.0 [skip ci]</li>
+    <li>Push 1 commit ke <code>asepharyana/llm</code> (main): docs: compare against llama.cpp on the same gpu, not just on paper</li>
+    <li>Tutup PR: &quot;&quot; di <code>asepharyana/mcpedia</code></li>
+    <li>Push 4 commits ke <code>asepharyana/NodeBB</code> (master): test: fix redis tests; fix: on topics' internal method deleteTopics, call topics.purgePostsAndTopic so other users' posts are not orphaned; Merge remote-tracking branch 'refs/remotes/upstream/master'</li>
     <li>Tutup PR: &quot;&quot; di <code>asepharyana/GMW</code></li>
     <li>Tutup PR: &quot;&quot; di <code>asepharyana/zeavis-edu</code></li>
-    <li>Push 1 commit ke <code>asepharyana/hub</code> (main): chore(release): 1.0.18</li>
+    <li>Tutup PR: &quot;&quot; di <code>asepharyana/TeleUploader</code></li>
   </ul>
 
 <!--AI_ACTIVITY_END-->
