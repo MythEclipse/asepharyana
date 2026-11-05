@@ -138,12 +138,12 @@
 <!--AI_ACTIVITY_START-->
 
 <ul>
-    <li>Push 14 commits ke <code>asepharyana/mytheclipse-crates</code> (main): chore: remove the http and storage crates; perf(resiliency): fan out with worker tasks instead of one per item; perf(lifecycle): skip whole months and hours in cron next_after</li>
-    <li>Tutup PR: &quot;&quot; di <code>asepharyana/MythEclipse-Bot-Collections</code></li>
-    <li>Tutup PR: &quot;&quot; di <code>asepharyana/hub</code></li>
-    <li>Push 6 commits ke <code>asepharyana/llm</code> (main): refactor(engine): optimize tensor core usage in matmul and update documentation; perf(engine): follow ggml's mmq geometry for the int8 tensor core path; docs: measure the tensor core path against llama.cpp through the cli</li>
-    <li>Tutup PR: &quot;&quot; di <code>asepharyana/mcpedia</code></li>
-    <li>Push 4 commits ke <code>asepharyana/NodeBB</code> (master): test: fix redis tests; fix: on topics' internal method deleteTopics, call topics.purgePostsAndTopic so other users' posts are not orphaned; Merge remote-tracking branch 'refs/remotes/upstream/master'</li>
+    <li>Push 1 commit ke <code>asepharyana/mcpedia</code> (main): chore(deps): add <code>.github/dependabot.yml</code> from the ops template</li>
+    <li>Push 1 commit ke <code>asepharyana/llm</code> (main): chore(deps): add <code>.github/workflows/dependabot-auto-merge.yml</code> from the ops template</li>
+    <li>Push 1 commit ke <code>asepharyana/infra</code> (main): chore(deps): add <code>.github/dependabot.yml</code> from the ops template</li>
+    <li>Push 1 commit ke <code>asepharyana/discord-forum-bridge</code> (master): chore(deps): add <code>.github/workflows/dependabot-auto-merge.yml</code> from the ops template</li>
+    <li>Push 1 commit ke <code>asepharyana/GMW</code> (main): chore(deps): add <code>.github/workflows/dependabot-auto-merge.yml</code> from the ops template</li>
+    <li>Push 1 commit ke <code>asepharyana/pr-agent-server</code> (main): chore(mirror): drop dependabot config - it lives on the primary only</li>
   </ul>
 
 <!--AI_ACTIVITY_END-->
